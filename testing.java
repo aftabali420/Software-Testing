@@ -1,3 +1,5 @@
+//i have mades changes and i will commit now 
+
 import java.util.Scanner;
 
 public class Main {
